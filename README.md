@@ -7,11 +7,11 @@
 </p>
 
 <h1 align="center">
-    {PROJECT NAME}
+    ktlint-config-pixelmatters
 </h1>
 
 <h4 align="center">
-    {PROJECT DESCRIPTION}
+    A KTLint config standard for Pixelmatters projects
 </h4>
 
 <p align="center">

@@ -1,0 +1,3 @@
+[*.{kt,kts}]
+# Disable rules about Wildcard imports
+disabled_rules=no-wildcard-imports
