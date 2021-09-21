@@ -26,4 +26,4 @@
     </a>
 </p>
 
-## {CHAPTER}
+Simply drag the `.editorconfig` file to your project root. Replace the file locally if you have an existing one already.
